@@ -1,0 +1,19 @@
+{
+  "name": "telegram-wiki",
+  "version": "1.0.0",
+  "description": "Telegram bot for Wikipedia media",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulder-X/telegram-wiki.git"
+  },
+  "author": "Mulder-X <vladikbrezitsky@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mulder-X/telegram-wiki/issues"
+  },
+  "homepage": "https://github.com/Mulder-X/telegram-wiki#readme"
+}
