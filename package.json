@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Mulder-X/telegram-wiki/issues"
   },
-  "homepage": "https://github.com/Mulder-X/telegram-wiki#readme"
+  "homepage": "https://github.com/Mulder-X/telegram-wiki#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.51.0"
+  }
 }
